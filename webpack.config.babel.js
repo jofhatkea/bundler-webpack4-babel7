@@ -1,4 +1,3 @@
-//https://medium.com/oredi/webpack-with-babel-7-b61f7caa9565
 import path from "path";
 import HtmlWebpackPlugin from "html-webpack-plugin";
 import ScriptExtHtmlWebpackPlugin from "script-ext-html-webpack-plugin";
